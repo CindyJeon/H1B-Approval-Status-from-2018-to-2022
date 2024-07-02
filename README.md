@@ -1,6 +1,6 @@
 # H1B-Approval-Status-from-2018-to-2022
 
-This Tableau storyboard visualizes H1B Approval Status of recent 5 years(from 2018 to 2022). 
+This Tableau storyboard visualizes H1B Approval Status of recent 5 years (from 2018 to 2022). It highlights the States, city and the companies with the most H1B approval. 
 (https://public.tableau.com/app/profile/daeun.jeon8563/viz/H1BApprovalStatusfrom2018to2022/Story1)
 
 ✨ The data revealed few points,
